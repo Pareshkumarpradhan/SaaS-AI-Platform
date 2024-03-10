@@ -1,2 +1,11 @@
-<h1 class="text-3xl font-bold underline">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import SideBar from "$lib/components/sideBar.svelte";
+
+</script>
+<h1>Welcome</h1>
+
+<SideBar />
+
+<h1>Hello world</h1>
+
+

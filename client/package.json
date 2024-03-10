@@ -32,5 +32,13 @@
 		"typescript": "^5.0.0",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"bits-ui": "^0.19.5",
+		"clsx": "^2.1.0",
+		"flowbite": "^2.3.0",
+		"lucide-svelte": "^0.352.0",
+		"tailwind-merge": "^2.2.1",
+		"tailwind-variants": "^0.2.0"
+	}
 }
