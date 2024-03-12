@@ -22,6 +22,8 @@
 		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.35.1",
+		"flowbite": "^2.3.0",
+		"flowbite-svelte": "^0.44.24",
 		"postcss": "^8.4.35",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
@@ -36,7 +38,6 @@
 	"dependencies": {
 		"bits-ui": "^0.19.5",
 		"clsx": "^2.1.0",
-		"flowbite": "^2.3.0",
 		"lucide-svelte": "^0.352.0",
 		"tailwind-merge": "^2.2.1",
 		"tailwind-variants": "^0.2.0"
